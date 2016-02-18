@@ -1,0 +1,30 @@
+/* Empty. Add your own CSS if you like */
+#map{
+        display:block;
+        width:100%;
+        height:30em;
+    }
+    .scroll{
+        height:100%;
+    }
+.dropdown__menu--is-dropped .dropdown-menu__content
+{
+	background: #656363;
+}
+.tab-item .icon
+{
+	color: white;
+}
+.tab-item
+{
+	color: white;
+}
+.mdi-dots-vertical
+{
+	color: white;
+}
+.menu-derecho li
+{
+	padding: 0em 1em;
+	
+}
